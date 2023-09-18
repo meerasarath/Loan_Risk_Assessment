@@ -1,4 +1,6 @@
 # Loan_Risk_Assessment
+Loan Risk Assessment compares the performance of different machine learning models built with features selected using filter and wrapper methods.
+
 1. DataCleaningAndPreProcessing.R : File containing code for data cleaning and pre-processing.
 2. EDA.R : Code for the Exploratory Data Analysis performed.
 3. InformationGain_FS_and_Models_evaluation : folder with files used for feature selection using IG and evaluation of models with the selected features.
